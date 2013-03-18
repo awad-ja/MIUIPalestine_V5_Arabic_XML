@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_format">
+        <item quantity="other">%d اغنية</item>
+        <item quantity="one">%d اغنية</item>
+    </plurals>
+    <plurals name="Nalbums_format">
+        <item quantity="other">%d البوم</item>
+        <item quantity="one">%d البوم</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">اغنية</item>
+        <item quantity="one">اغنية</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">البوم</item>
+        <item quantity="one">البوم</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">فنان</item>
+        <item quantity="one">فنان</item>
+    </plurals>
+    <plurals name="Nplaylists">
+        <item quantity="other">قائمة تشغيل</item>
+        <item quantity="one">قائمة تشغيل</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">" مجلد"</item>
+        <item quantity="one">" مجلد"</item>
+    </plurals>
+    <plurals name="Ntracks_batch_selection">
+        <item quantity="other">تم تحديد %d اغنية</item>
+        <item quantity="one">تم تحديد %d اغنية</item>
+    </plurals>
+    <plurals name="Nalbums_batch_selection">
+        <item quantity="other">تم تحديد %d البوم</item>
+        <item quantity="one">تم تحديد %d البوم</item>
+    </plurals>
+    <plurals name="Nartists_batch_selection">
+        <item quantity="other">تم تحديد %d فنان</item>
+        <item quantity="one">تم تحديد %d فنان</item>
+    </plurals>
+    <plurals name="Nfolders_batch_selection">
+        <item quantity="other">تم تحديد %d مجلد</item>
+        <item quantity="one">تم تحديد %d مجلد</item>
+    </plurals>
+    <plurals name="Nplaylists_batch_selection">
+        <item quantity="other">تم تحديد %d قائمة تشغيل</item>
+        <item quantity="one">تم تحديد %d قائمة تشغيل</item>
+    </plurals>
+    <plurals name="Ntrack_in_sdcard_format">
+        <item quantity="other">هناك %d اغنية في بطاقة SD</item>
+        <item quantity="one">هناك %d اغنية في بطاقة SD</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">تم اضافة %d اغنية لقائمة التشغيل.</item>
+        <item quantity="one">تم اضافة اغنية لقائمة التشغيل.</item>
+    </plurals>
+    <plurals name="NNNtrackstofavoriteplaylist">
+        <item quantity="other">تم اضافة %d اغنية لقائمة التشغيل.</item>
+        <item quantity="one">تم اضافة اغنية لقائمة التشغيل.</item>
+    </plurals>
+    <plurals name="Nonlinecategory">
+        <item quantity="other">" تصنيف"</item>
+        <item quantity="one">" تصنيف"</item>
+    </plurals>
+    <plurals name="album_details_format">
+        <item quantity="other">%1$s, %2$d اغنية</item>
+        <item quantity="one">%1$s, %2$d اغنية</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">تم حذف %d اغنية.</item>
+        <item quantity="one">تم حذف اغنية.</item>
+    </plurals>
+</resources>

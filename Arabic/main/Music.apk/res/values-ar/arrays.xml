@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="equalizer_presents">
+        <item>عادي</item>
+        <item>كلاسيكي</item>
+        <item>راقص</item>
+        <item>فولك</item>
+        <item>Heavy Metal</item>
+        <item>هيب هوب</item>
+        <item>جاز</item>
+        <item>بوب</item>
+        <item>روك</item>
+    </string-array>
+    <string-array name="weeklist">
+        <item>اسبوع</item>
+        <item>اسبوعان</item>
+        <item>3 اسابيع</item>
+        <item>4 اسابيع</item>
+        <item>5 اسابيع</item>
+        <item>6 اسابيع</item>
+        <item>7 اسابيع</item>
+        <item>8 اسابيع</item>
+        <item>9 اسابيع</item>
+        <item>10 اسابيع</item>
+        <item>11 اسبوع</item>
+        <item>12 اسبوع</item>
+    </string-array>
+</resources>
