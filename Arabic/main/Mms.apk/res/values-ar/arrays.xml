@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>مرة</item>
+        <item>مرتين</item>
+        <item>ثلاث مرات</item>
+        <item>خمسة مرات</item>
+        <item>عشر مرات</item>
+    </string-array>
+</resources>
