@@ -77,7 +77,7 @@
   <string name="calllog_menu_edit_before_call">تعديل قبل الإتصال</string>
   <string name="calllog_menu_send_sms">إرسال رسالة</string>
   <string name="callrecordview_item_newcontact">جهة أتصال جديدة</string>
-  <string name="callrecordview_item_op_time_minutes_seconds">%d د %d ث</string>
+  <string name="callrecordview_item_op_time_minutes_seconds">%1$d د %2$d ث</string>
   <string name="callrecordview_item_op_time_missed">غير متصل</string>
   <string name="callrecordview_item_op_time_only_minutes">%d د</string>
   <string name="callrecordview_item_op_time_only_seconds">%d ث</string>
