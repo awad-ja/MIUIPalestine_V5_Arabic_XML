@@ -157,4 +157,5 @@
   <string name="widget_color_used_all">\#C00203</string>
   <string name="wifi_traffic">Wi-Fi: %s</string>
   <string name="wifi_type">Wi-Fi</string>
+  <string name="traffic_protection_unknown"><u>"لا اعلم، سأقوم بضبطة لاحقاً"</u></string>
 </resources>
