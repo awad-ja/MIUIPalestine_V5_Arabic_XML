@@ -181,9 +181,9 @@
   <string name="Privacy_Perm_Count">سماح: %1$d منع: %2$d</string>
   <string name="Su_Enable_Dialog">يحاول %1$s الحصول على اذونات ROOT المعطلة بشكل افتراضي لضمان امن النظام. اذا اردت تفعيلة، يرجى الذهاب الى الضبط في مدير الاذونات.</string>
   <string name="Su_Unavailable">اذونات ROOT معطلة على النسخ الثابتة. يرجى تثبيت نسخة تجريبية لتفعيل اذونات ROOT.</string>
-  <string name="SysOpt_Boost_AutoStart">Autostart permission</string>
-  <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
-  <string name="SysOpt_Boost_Boot">Boot</string>
+  <string name="SysOpt_Boost_AutoStart">تصاريح البدء التلقائي</string>
+  <string name="SysOpt_Boost_AutoStart_Group">البدء التلقائي</string>
+  <string name="SysOpt_Boost_Boot">بدء التشغيل</string>
   <string name="SysOpt_Boost_Receiver">الخلفية</string>
   <string name="app_name">LBE Guard</string>
 </resources>

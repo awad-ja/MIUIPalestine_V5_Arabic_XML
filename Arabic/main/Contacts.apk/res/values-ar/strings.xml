@@ -121,7 +121,7 @@
   <string name="clearCallLogConfirmation">هل أنت متأكد من أنك تريد محو سجل المكالمات؟</string>
   <string name="clearCallLogConfirmation_title">محو سجل المكالمات</string>
   <string name="clearCallLogProgress_title">جارٍ محو سجل المكالمات</string>
-  <string name="clearFrequentsConfirmation">"Clear the frequently contacted list in the People and Phone apps, and force email apps to learn your addressing preferences from scratch."</string>
+  <string name="clearFrequentsConfirmation">مسح قائمة جهات الاتصال والتطبيقات الاكثر استخداما، وفرض تطبيق البريد على تعلم تفاصيل مراسلاتك من الصفر</string>
   <string name="clearFrequentsConfirmation_title">مسح جهات الاتصال الاكثر استخداما؟</string>
   <string name="clearFrequentsProgress_title">جاري مسح جهات الاتصال الاكثر استخداما...</string>
   <string name="clear_default">محو الإعدادات الافتراضية</string>

@@ -17,7 +17,7 @@
   <string name="corpus_selection_heading">بحث</string>
   <string name="default_search_domain">.google.com</string>
   <string name="device_settings_category_title">مسح الاختصارات</string>
-  <string name="google_app_label">Google Search</string>
+  <string name="google_app_label">بحث Google</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
   <string name="google_search_description">اقتراحات بحث Google</string>
@@ -26,16 +26,16 @@
   <string name="google_settings_category_title">بحث Google</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="menu_help">مساعدة</string>
-  <string name="menu_settings">Search settings</string>
-  <string name="remove_from_history">Remove from search history</string>
-  <string name="remove_from_history_failed">"Couldn't remove item from history"</string>
+  <string name="menu_settings">اعدادات البحث</string>
+  <string name="remove_from_history">ازالة من المحفوظات</string>
+  <string name="remove_from_history_failed">تعذر ازالة العنصر من المحفوظات</string>
   <string name="search_in_app_store">بحث المتجر</string>
   <string name="search_in_web">بحث الويب</string>
-  <string name="search_settings">Search settings</string>
-  <string name="search_sources">Searchable items</string>
-  <string name="search_sources_summary">Choose what to search on the phone</string>
-  <string name="search_widget">Search</string>
-  <string name="system_search_category_title">Phone</string>
+  <string name="search_settings">بحث الاعدادات</string>
+  <string name="search_sources">العناصر القابلة للبحث</string>
+  <string name="search_sources_summary">اختر ما تريد البحث فيه على الهاتف</string>
+  <string name="search_widget">بحث</string>
+  <string name="system_search_category_title">الهاتف</string>
   <string name="voice_search_hint_quotation_end">”</string>
   <string name="voice_search_hint_quotation_start">“</string>
   <string name="voice_search_hint_title">جرب ان تقول:</string>
