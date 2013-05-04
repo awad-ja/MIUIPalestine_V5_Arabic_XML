@@ -110,12 +110,12 @@
   <string name="start_update">بدء التحديث</string>
   <string name="submit">تقديم</string>
   <string name="submit_fail">فشل التقديم</string>
-  <string name="submit_progress">Submitting...</string>
-  <string name="submit_success">Submitted successfully, thank you!</string>
-  <string name="system_backup_button_text">Perform a system backup before updating</string>
-  <string name="system_backup_cancel_text">Reboot to Update</string>
+  <string name="submit_progress">جاري التقديم...</string>
+  <string name="submit_success">تم التقديم بنجاح, شكرا لك!</string>
+  <string name="system_backup_button_text">إجراء نسخة احتياطية قبل تحديث النظام</string>
+  <string name="system_backup_cancel_text">إعادة التشغيل للتحديث</string>
   <string name="system_backup_error_message">MIUI backup was not found, please backup manually</string>
-  <string name="system_backup_ok_text">Backup</string>
+  <string name="system_backup_ok_text">النسخة الاحتياطية</string>
   <string name="sytemt_backup_helper">System update will not wipe user data. However,it is recommended to make a backup of your user data before updating</string>
   <string name="top_secret_build">Secret build</string>
   <string name="update_comment_hint">(optional)</string>
