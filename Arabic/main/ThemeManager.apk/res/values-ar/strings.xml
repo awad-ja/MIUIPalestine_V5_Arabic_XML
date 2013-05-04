@@ -174,8 +174,8 @@
   <string name="wallpaper_crop">اقتصاص</string>
   <string name="wallpaper_decoded_error">فشل فك التشفير</string>
   <string name="wallpaper_loading_text">تحميل...</string>
-  <string name="wallpaper_set_as_both">ضبط كالاثنان</string>
-  <string name="wallpaper_set_as_destop">ضبط كخلفية للشاشة</string>
+  <string name="wallpaper_set_as_both">تعيين كليهمان</string>
+  <string name="wallpaper_set_as_destop">تعيين للشاشة الرئيسية</string>
   <string name="wallpaper_set_as_lockscreen">ضبط كخلفية لشاشة القفل</string>
   <string name="wallpaper_settings">اعدادات الخلفية</string>
 </resources>
